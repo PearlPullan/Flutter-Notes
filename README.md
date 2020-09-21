@@ -12,4 +12,5 @@ appBar: AppBar(
     style: TextStyle(color: Color(0xffffffaa)),
   ),
 ),
-4.
+4. The Dart's SDK is located at C:\src\flutter\bin\cache\dart-sdk
+5. Wideget catalog https://flutter.dev/docs/development/ui/widgets
