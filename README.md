@@ -14,3 +14,4 @@ appBar: AppBar(
 ),
 4. The Dart's SDK is located at C:\src\flutter\bin\cache\dart-sdk
 5. Wideget catalog https://flutter.dev/docs/development/ui/widgets
+6. https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e
