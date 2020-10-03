@@ -26,3 +26,6 @@ https://www.materialpalette.com/
 10. card class
 11. ListTile
 12.divider class
+13. why is my flutter outline empty
+Move the mouse to any widget and Press Ctrl and click on that widget , after this step, your FLutter Outline will be enabled
+14.
